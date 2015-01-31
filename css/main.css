@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: #666666;
+    line-height: 2;
+}
+
+.sub-heading {
+    color: #F07C17;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.mug-img {
+    margin-left: 14px;
+    padding-right: 11px;
+}
+
+.main-heading {
+    font-size: 48px;
+    padding: 25px 0 20px 0;
+}
+
+.main-div {
+    margin: 0 0 0 0;
+    padding: 0 16px 0 13px;
+    font-size: 14px;
+}
+
+.main-div h2 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 5px;
+
+}
+
+.summary-paragraphs {
+    padding: 30px 10px 0 5px;
+}
+
+.main-features {
+    margin: 29px -3px 0 15px;
+    padding: 10px 0 30px 30px;
+    border: solid 1px #CCCCCC;
+}
+
+.main-features h2 {
+    padding: 0 55px 20px 0;
+    margin-right: 35px;
+}
